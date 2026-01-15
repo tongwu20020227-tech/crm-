@@ -1,0 +1,7 @@
+{
+  "name": "智能拜访助手 (Smart Visit Assistant)",
+  "description": "一个面向销售人员的智能拜访管理应用，包含老客户维护与新客户拓客两大核心模块。系统通过AI分析客户状态，提供精准的维护评分、风险预警、痛点假设及行动建议，助力销售高效达成业绩。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
